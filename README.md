@@ -11,8 +11,7 @@ Repositório para armazenar Resumos sobre Git e GitHub do curso Versionamento de
 
 | Aulas | Resumos |
 |-------|---------|
-| Gravando Alterações no Repositório Local |[Resumos] 
-() |
+| Gravando Alterações no Repositório Local | Resumos () |
 
 ```
 git Innovation
