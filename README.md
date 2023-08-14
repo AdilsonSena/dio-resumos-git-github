@@ -11,14 +11,21 @@ Repositório para armazenar Resumos sobre Git e GitHub do curso Versionamento de
 
 | Aulas | Resumos |
 |-------|---------|
-| Gravando Alterações no Repositório Local | Resumos () |
+| Gravando Alterações no Repositório Local | Resumos |
 
 ```
-git Innovation
+Git init
+Git clone
+Git pull
+Git branch
+Git checkout
+Git status
+Git add
+Git commit
 ```
 
 ## 🔍 Referências
-- [Digital Innovation One]().
+- [Digital Innovation One](https://digitalinnovationone.github.io/roadmaps/careers/frontend/#).
 - [README](https://readme.so/pt/editor)
 
 
