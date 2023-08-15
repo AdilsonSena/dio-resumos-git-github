@@ -1,3 +1,4 @@
+
 # DIO | Resumos Git e GitHub
 
 Repositório para armazenar Resumos sobre Git e GitHub do curso Versionamento de código com Git e GitHub da
@@ -11,7 +12,9 @@ Repositório para armazenar Resumos sobre Git e GitHub do curso Versionamento de
 
 | Aulas | Resumos |
 |-------|---------|
-| Gravando Alterações no Repositório Local | [Resumos]() |
+| Aula 01 | [Resumo]() |
+| Aula 02 | [Resumo]() |
+
 
 ```
 Git init
