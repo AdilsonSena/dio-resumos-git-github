@@ -19,47 +19,69 @@ Repositório para armazenar Resumos sobre Git e GitHub do curso Versionamento de
 ```
 git init
 ```
+```
 git clone
+```
 ```
 git pull
 ```
+```
 git branch
+```
 ```
 git checkout
 ```
+```
 git status
+```
 ```
 git add
 ```
+```
 git commit
+```
 ```
 git checkout -b teste
 ```
+```
 git checkout main
+```
 ```
 git branch -v
 ```
+```
 git merge teste
+```
 ```
 git branch
 ```
+```
 git branch -d teste
+```
 ```
 git fetch origin main
 ```
+```
 git diff main origin/main
+```
 ```
 git merge origin/main 
 ```
+```
 git clone https://github.com/AdilsonSena/dio-resumos-git-github.git --branch Adilson --single-branch
+```
 ```
 git stash
 ```
+```
 git stash list
+```
 ```
 git checkout teste
 ```
+```
 git stash pop
+```
 ```
 git stash apply
 ```
