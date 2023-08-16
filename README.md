@@ -89,6 +89,7 @@ git stash apply
 ## 🔍 Referências
 - [Digital Innovation One](https://digitalinnovationone.github.io/roadmaps/careers/frontend/#).
 - [README](https://readme.so/pt/editor)
+- [Materiais de apoio](https://github.com/elidianaandrade/dio-curso-git-github)
 - [Git](https://git-scm.com/)
 
 
